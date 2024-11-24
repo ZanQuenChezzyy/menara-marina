@@ -146,6 +146,7 @@ const Hero = () => {
                             title="Tonton Video"
                             leftIcon={<TiMediaPlay />}
                             containerClass="!bg-blue-300 flex-center gap-1"
+                            href="https://youtu.be/cRWYc5gO_So?si=V8Y8ItbN2t8XoEWg"
                         />
                     </div>
                 </div>
