@@ -76,6 +76,7 @@ const Story = () => {
                             id="realm-button"
                             title="Tonton Video"
                             containerClass="mt-5"
+                            href="https://youtu.be/cRWYc5gO_So?si=V8Y8ItbN2t8XoEWg"
                         />
                     </div>
                 </div>
