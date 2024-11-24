@@ -33,6 +33,7 @@ const BentoCard = ({ src, title, description }) => {
                 loop
                 muted
                 autoPlay
+                playsInline
                 className="absolute left-0 top-0 size-full object-cover object-center"
             />
             <div className="relative z-10 flex size-full flex-col justify-between p-5 text-blue-50">
@@ -80,7 +81,7 @@ const Features = () => {
                         <BentoCard
                             src="videos/marina-3.mp4"
                             title={<>Solusi Tihi-Tihi</>}
-                            description="Program dan inovasi yang dirancang untuk mengatasi tantangan sosial, ekonomi, dan lingkungan di Kampung Terapung Tihi-Tihi, seperti Kapsurula dan pelatihan budidaya."
+                            description="Program dan inovasi yang dirancang untuk mengatasi tantangan sosial, ekonomi, dan lingkungan di Kampung Terapung Tihi-Tihi."
                         />
                     </BentoTilt>
                     <BentoTilt className="bento-tilt_1 me-14 md:col-span-1 md:me-0">
