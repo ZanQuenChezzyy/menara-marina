@@ -1,6 +1,3 @@
-// Import PropTypes
-import PropTypes from 'prop-types';
-
 const Button = ({ title, id, rightIcon, leftIcon, containerClass }) => {
     return (
         <button
@@ -14,23 +11,6 @@ const Button = ({ title, id, rightIcon, leftIcon, containerClass }) => {
             {rightIcon}
         </button>
     );
-};
-
-// Define PropTypes for validation
-Button.propTypes = {
-    title: PropTypes.string.isRequired,
-    id: PropTypes.string,
-    rightIcon: PropTypes.node,
-    leftIcon: PropTypes.node,
-    containerClass: PropTypes.string,
-};
-
-// Set default props (optional)
-Button.defaultProps = {
-    id: '',
-    rightIcon: null,
-    leftIcon: null,
-    containerClass: '',
 };
 
 export default Button;
