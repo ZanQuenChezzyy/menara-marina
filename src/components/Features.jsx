@@ -55,7 +55,7 @@ const Features = () => {
                 <div className="px-5 py-32">
                     <p className="font-circular-web text-lg text-blue-50">Apa itu Menara Marina ?</p>
                     <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50 text-justify">
-                        Menara Marina adalah program Corporate Social Responsibility (CSR) yang diusung oleh PT Badak LNG,
+                        Menara Marina adalah program Corporate Social Responsibility (CSR) yang diusung oleh PT Badak NGL,
                         bertujuan untuk memberdayakan masyarakat pesisir di Kampung Terapung Tihi-Tihi, Kelurahan Bontang Lestari.
                         Nama Menara Marina merupakan singkatan dari &quot;Menuju Nelayan Ramah Lingkungan Mandiri dan Sejahtera&quot;.
                         Program ini juga bertujuan untuk mengurangi dampak mikroplastik di laut, mendukung keberlanjutan lingkungan, dan
